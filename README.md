@@ -1,2 +1,1 @@
-# primer-repositorio
-repositorio de prueba 
+como crear un repositorio de prueba y clonarlo en github 
